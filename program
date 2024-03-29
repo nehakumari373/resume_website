@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my portfolio</title>
+</head>
+<body>
+    <h1>            MY PORTFOLIO       </h1>
+    <h2>NEHA KUMARI</h2>
+    <img src ="/Neha_pic.jpg"alt="my picture"height="100"width="100"/>
+    <h5>CONTACT NUMBER-7903096510</h5>
+    <h5>EMAIL ID- kumarinehaa373@gmail.com</h5>
+     <h5>PERMANENT ADDRESS-GODDA, JHARKHAND</h5>
+    <h5>TEMPORERY ADDRESS-KOLKATA,WEST BENGAL</h5> 
+        <a href="https://www.linkedin.com/in/neha-kumari-8a45b41b0">LINKEDIN</a>
+        <br/>
+        <a href="https://github.com/nehakumari373">GITHUB</a>
+       <!-- <img src ="/Neha_pic.jpg"alt="my picture"height="100"width="100"/>-->
+ <p><u>CARRIER OBJECTIVE</u><br> To work with an oganization where can learn new skills and increase my abilities for the organizational goals as well as myself.</p>
+
+  <a href="/education.html">ACADEMIC DETAILS</a>
+  <p><u>ACADEMIC DETAILS</u><br> NARULA INSTITURE OF TECHNOLOGY,KOLKATA -B.TECH (ELECTRONICS AND COMMUNICATION ENGINEER) - 8.57CGPA(2019-2023)</p>
+  <hr>
+       <pr>GGPS ,BOKARO,JHARKHAND(CBSE)-61.5%(2019)</pr>
+       <hr>
+       <pr>D.A.V PUBLIC SCHOOL,URJANAGAR,GODDA,JHARKHAND-9.4 CGPA(2017)</pr>
+       <hr>
+       <p><u>PROJECTS</u><br>1. PERSONAL ASSISTANT USING ESPEAK</p>
+       <p>2.DOOR LOCK USING ARDUINO MOTION DETECTOR BY PIR SENSOR</p>
+       <P>3.CREATE WEBSITE</P>
+       <P><U>PAPER PUBLICATION</U><br>PAPER NAME-IJARIIT</P>
+       <P>PUBLICATION DATE -5th january ,2022</P>
+       <p>PROJECT NAME- DOOR LOCK USING ARDUINO MOTION DETECTOR BY PIR SENSOR</p>
+       <a href="https://www.ijariit.com/manuscript/door-lock-using-arduino-motion-detector-by-pir-sensor/">PROJECT URL</a>
+       <P><U>INTERNSHIPS</U><br>INTERNSHIP STUDIO -MAY 2021-JULY 2021-WEBSITE DESIGNING</P>
+       <P>T-WEB EXPONENT SERVICES PVT,LTD.-AUGUST 2021-JANUARY 2022-C++ PROGRAMMING</P>
+       <P>T-WEB EXPONENT SERVICES PVT,LTD.-JANUARY 2022-MAY 2022-SQL </P>
+
+       <P><U>PROGRAMMING LANGUAGES</U><br>C</P>
+       <P>C++</P>
+       <P>PYTHON</P>
+       <P>SQL</P>
+       <P>MATLAB</P>
+       <P>HTML</P>
+       <P>CSS</P>
+       <P><U>DATABASE</U><br>DBMS</P>
+       <P><U>TOOLS</U><br>MS WORD</P>
+       <P>MS EXCEL</P>
+       <P>MS POWER POINT</P>
+       <P>MATLAB</P>
+       <P>MYSQL</P>
+       <P>VS CODE</P>
+       <P>GOOGLE COLAB</P>
+       <P><U>OPERATING SYSTEM</U><br>WINDOWS</P>
+       <P><U>ACHIEVEMENTS</U><br>Certified for participation in ELEKTRON,ROBOTICS events in college</P>
+       <p>Qualified in NATIONAL ENGINEERING OLYMPIAD</p>
+       <P>Certified for some NPTEL ,COURSERA Courses</P>
+       <p>Certified for participation in debugging,event in college.</p>
+       <p><u>INTERPERSONAL SKILLS</u></p>
+       <br>
+       <pr>Responsible attitude targeted at ensuring completion of projects in a time efficient manner.</pr>
+       <p>Ability to cope up with different situations and handle them efficiently.
+       </p>
+       <p>Ability to take construvtive criticism in a positive manner.</p>
+       <p><u>PERSONAL DETAILS</u><br>NAME-NEHA KUMARI</p>
+       <P>FATHER NAME-MANOJ KUMAR</P>
+       <P>PERMANENT ADDRESS- MOHANPUR,MAHAGAMA,GODDA,JHARKHAND-814154</P>
+       <P>DATE OF BIRTH-19TH NOVEMBER ,2002</P>
+       <P>LANGUAGE- ENGLISH AND HINDI</P>
+       <P>NATIONALITY/RELIGION-INDIAN/HINDUISM</P>
+       <P>INTERESTS & HOBBIES- TRAVELLING,CODING,READING,WRITING,EDITING</P>
+       <P></P>
+
+</body>
+</body>
+</html>
